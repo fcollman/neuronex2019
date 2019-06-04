@@ -5,3 +5,7 @@ pandas
 jupyter
 tornado<6.0
 annotationframeworkclient
+dash
+plotly
+dash_html_components
+dash_core_components
