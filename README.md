@@ -13,3 +13,7 @@ register your conda environment for jupyter
 ```
 python -m ipykernel install --user --name neuronex --display-name "neuronex"
 ```
+start up jupyter
+```
+jupyter notebook
+```
