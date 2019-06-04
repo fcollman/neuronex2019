@@ -1,6 +1,8 @@
 # Setup instructions
 Checkout this repository, navigate to repository directory in terminal.
-Install anaconda 3.7
+
+Install anaconda3.
+
 Setup a a new python 3.7 conda environment
 ```
 conda create -n neuronex python==3.7 pyembree matplotlib numpy pandas jupyter PyTables ipython
