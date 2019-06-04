@@ -1,0 +1,7 @@
+neuroglancer
+matplotlib
+numpy
+pandas
+jupyter
+tornado<6.0
+annotationframeworkclient
